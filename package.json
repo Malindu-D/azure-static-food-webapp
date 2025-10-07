@@ -1,0 +1,13 @@
+{
+  "name": "food-webapp",
+  "version": "1.0.0",
+  "description": "Food selection static web app",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
